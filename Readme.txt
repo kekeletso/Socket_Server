@@ -16,6 +16,7 @@ Server program
 It is a console application.
 When run it, it displays on command prompt.
 Once started it shows Server started message.
+Default server values of 127.0.0.1 and 8080 for port can be used.
 
 Client Server
 It is a Windows Forms Application.
